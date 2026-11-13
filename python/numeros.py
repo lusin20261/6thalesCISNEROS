@@ -1,0 +1,8 @@
+print("----------OLI VIWMVENIDQ A STACY ANEMIA POTONA----------")
+t = input("himgrezar primrt numerro: ")
+u = input("mgrzas el cegumdo numeroa: ")
+t = int(t)
+u = int(u)
+print ("la mlutlipliqasion ez: ",t*u)
+print ("la zunma ez: ",t/u)
+print ("----------TRNKIU ;)----------")
